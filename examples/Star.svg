@@ -1,0 +1,8 @@
+<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+
+    <polygon points="150,30 175,75 225,75 185,110 205,155 150,125 95,155 115,110 75,75 125,75" fill="yellow"
+        stroke="black" stroke-width="1" />
+    <text x="150" y="115" font-family="times-new-roman" font-size="60" text-anchor="middle" fill="white" stroke="black"
+        stroke-width="0.75">MAW</text>
+
+</svg>
